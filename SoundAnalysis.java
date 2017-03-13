@@ -1,7 +1,7 @@
 /****************************************************************
  *  SoundAnalysis extension
  *  ---------- ---------- ----------------------------
- *  Mouhamadou Oumar Sall
+ *  @author: Mouhamadou Oumar Sall
  *
  *  Sources:
  //  Steve Rubin, PitchLive, (2014), GitHub repository,
